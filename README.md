@@ -1,5 +1,5 @@
 ### Hi there 👋, It's me sketer
-#### I recently create Group-Live chatting website. visit site- (http://sketerchat.epizy.com/login.php)
+#### I recently create Group-Live chatting website. visit site- (http://sketerchat.epizy.com)
 ![I recently creata Group chatting website.](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08d12a55-e693-48ee-856b-1d5f6501d62d/d70v5ax-26a15d5e-432d-4836-b720-c0fd3b6b5c6b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wOGQxMmE1NS1lNjkzLTQ4ZWUtODU2Yi0xZDVmNjUwMWQ2MmQvZDcwdjVheC0yNmExNWQ1ZS00MzJkLTQ4MzYtYjcyMC1jMGZkM2I2YjVjNmIuanBnIn1dXX0.cs1Hk-ywf3jf4rtl-9gvKZgAOVtlW-qJRQtt51t0vWs)
 
 I made this project just for fun, it allows you to create free account and taught to strangers or friend in this group.
